@@ -19,6 +19,6 @@ public class BelahKetupat {
         System.out.println("Keliling dari Bangun Belah Ketupat adalah: "+keliling);
 
         System.out.println("Luas dari Bangun Belah Ketupat adalah: "+luas);
-
+        System.out.println("ARYA KONTOLLLLL");
     }
 }

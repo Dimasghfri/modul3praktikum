@@ -11,7 +11,7 @@ public class BelahKetupat {
         double D2 = input.nextDouble();
 
          double keliling = 4 * sisi;
-          double luas = (D1 * D2)/0.5;
+         double luas = (D1 * D2)/0.5;
         /**
          * @param sisi Panjang sisi belah ketupat
          * @return luas dari belah ketupat
@@ -21,3 +21,4 @@ public class BelahKetupat {
         System.out.println("Luas dari Bangun Belah Ketupat adalah: "+luas);
     }
 }
+
